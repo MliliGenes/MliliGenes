@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://pbs.twimg.com/media/FvWFZckXwAAeNUY?format=jpg&name=small))](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm SAAD</h1>
 <h3 align="center">I'm a web developer and graphic designer based in Morocco.</h3>
 
