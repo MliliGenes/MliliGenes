@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saaxbutcool" alt="saaxbutcool" /></a> </p>
 
-- 🔭 I’m currently working on [trello-clone](https://github.com/MliliGenes/Trello_clone)
+- 🔭 I’m currently working on [cube chroma v2]([https://github.com/MliliGenes/Trello_clone](https://github.com/MliliGenes/cube-chroma-v2.0))
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on [trello-clone](https://github.com/MliliGenes/Trello_clone)
+- 👯 I’m looking to collaborate on [cube chroma v2]([https://github.com/MliliGenes/Trello_clone](https://github.com/MliliGenes/cube-chroma-v2.0))
 
 - 🤝 I’m looking for help with **ExpressJS**
 
