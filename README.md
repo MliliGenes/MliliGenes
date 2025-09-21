@@ -19,7 +19,7 @@ I build things for the web and love diving into how computers actually work. Cur
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/saad-elmlili-97616b273/) • [CodePen](https://codepen.io/saadbutcool)
+[LinkedIn](https://www.linkedin.com/in/saad-el-mlili-97616b273/) • [CodePen](https://codepen.io/saadbutcool)
 
 ## Stats
 
