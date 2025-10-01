@@ -67,10 +67,6 @@ I build things for the web and love diving into how computers actually work. Cur
 
 </div>
 
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MliliGenes&repo=MliliGenes&theme=default&hide_border=true)](https://github.com/MliliGenes/MliliGenes)
-
 ## 📫 Get In Touch
 
 <div align="center">
