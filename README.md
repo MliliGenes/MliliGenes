@@ -28,11 +28,10 @@ currently: building scalable web apps, reading about memory allocators, contribu
 
 ## $ git log --stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MliliGenes&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MliliGenes&layout=compact&theme=default&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MliliGenes&theme=default&hide_border=true)
+[<img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=MliliGenes&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">](#)
+[<img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MliliGenes&layout=compact&theme=default&hide_border=true&langs_count=8">](#)
+[<img width="100%" height="1" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+[<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MliliGenes&theme=default&hide_border=true">](#)
 
 ---
 
